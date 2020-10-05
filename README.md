@@ -16,13 +16,13 @@
 [<img align="left" alt="Haridhayal | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/telegram.svg" />][telegram]
 
 <br />
+<br />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=haridhayal11&show_icons=true&hide_border=true" />
+<summary>:zap: GitHub Stats</summary>
 
-</details>
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=haridhayal11&show_icons=true&hide_border=true" />
+
 
 [xda]: https://forum.xda-developers.com/member.php?u=9053429
 [telegram]: https://t.me/haridhayal
