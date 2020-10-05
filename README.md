@@ -19,8 +19,7 @@
 <br />
 <br />
 
-<summary>:zap: GitHub Stats</summary>
-
+###:zap: GitHub Stats
 <img align="left" alt="Haridhayal's GitHub Stats" src="https://github-readme-stats-git-master.haridhayal11.vercel.app//api?username=haridhayal11&show_icons=true&hide_border=true" />
 
 
