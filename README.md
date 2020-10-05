@@ -9,7 +9,7 @@
 - 🥅 2020 Goals: Focus more on academics
 - ⚡ Fun fact: I love Cars
 
-[![Spotify](https://vercel.com/haridhayal11/spotify-now-playing/ijn0zsv2l/api/spotify)](https://open.spotify.com/user/21wobs6smrp2yclxluydukp5y)
+[![Spotify](https://spotify-now-playing-swart.vercel.app/api/spotify)](https://open.spotify.com/user/21wobs6smrp2yclxluydukp5y)
 
 ### Connect with me:
 
