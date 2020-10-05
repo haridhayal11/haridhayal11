@@ -9,14 +9,12 @@
 - 🥅 2020 Goals: Focus more on academics
 - ⚡ Fun fact: I love Cars
 
-
 ### Connect with me:
 
 [<img align="left" alt="Haridhayal | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/gmail.svg" />][mail]
 [<img align="left" alt="Haridhayal | XDA" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/xdadevelopers.svg" />][xda]
 [<img align="left" alt="Haridhayal | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/telegram.svg" />][telegram]
 [<img align="left" alt="Haridhayal | Paypal" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/paypal.svg" />][paypal]
-<br />
 <br />
 <br />
 
