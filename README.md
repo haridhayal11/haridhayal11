@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently discovering a lot of new things
 - 👯 I’m building ROMs for Android devices
-- 🥅 2020 Goals: Focus more on private life
+- 🥅 2020 Goals: ....
 - ⚡ Fun fact: I love Cars
 
 ### Connect with me:
