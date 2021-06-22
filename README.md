@@ -3,12 +3,6 @@
 
 ## I'm a Student
 
-
-- 🌱 I’m currently discovering a lot of new things
-- 👯 I’m building ROMs for Android devices
-- 🥅 2020 Goals: ....
-- ⚡ Fun fact: I love Cars
-
 ### Connect with me:
 
 [<img align="left" alt="Haridhayal | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/gmail.svg" />][mail]
