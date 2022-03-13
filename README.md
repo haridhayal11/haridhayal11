@@ -12,8 +12,6 @@
 <br />
 <br />
 
-<img align="left" alt="Haridhayal's GitHub Stats" src="https://github-readme-stats-git-master.haridhayal11.vercel.app//api?username=haridhayal11&show_icons=true&hide_border=true" />
-
 
 [mail]: mailto:haridhayal@gmail.com
 [paypal]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2DCMKDAY5JKGW&source=url
